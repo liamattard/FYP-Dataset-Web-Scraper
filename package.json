@@ -1,0 +1,21 @@
+{
+  "name": "mydataset",
+  "version": "1.0.0",
+  "description": "Web Scraping instagram to gather data for my thesis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scrape",
+    "instagram"
+  ],
+  "author": "Liam Attard",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "puppeteer": "^5.3.1",
+    "request": "^2.88.2"
+  }
+}
